@@ -1,5 +1,6 @@
 const pwd = require('./pwd');
 const ls = require('./ls');
+const cat = require('./cat');
 
 //Output a prompt
 process.stdout.write('prompt > ');
